@@ -10,4 +10,4 @@ include nike_plus_connect
 
 ## Required Puppet Modules
 
-None.
+None
