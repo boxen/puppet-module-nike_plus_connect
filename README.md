@@ -1,6 +1,6 @@
 # Nike+ Connect Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/bdossantos/puppet-module-nike_plus_connect.png?branch=master)](https://travis-ci.org/bdossantos/puppet-module-nike_plus_connect)
+[![Build Status](https://travis-ci.org/boxen/puppet-module-nike_plus_connect.svg?branch=master)](https://travis-ci.org/boxen/puppet-module-nike_plus_connect)
 
 ## Usage
 
